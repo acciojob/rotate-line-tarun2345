@@ -1,1 +1,12 @@
 /*  your css code here. If applicable */
+body{
+        height: 100vh;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    #line{
+        background-color: black;
+        width: 200px;
+        height: 2px;
+    }
